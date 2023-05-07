@@ -1,0 +1,67 @@
+.page-title-box .mb-sm-0 h4 {
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+.row .card-body h4{
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.row .card-body .card-text p{
+    font-family: 'Noto Kufi Arabic', sans-serif;
+    font-size: 35px;
+}
+
+
+
+.row .card-body i {
+    position: absolute;
+    font-size: 80px;
+    top: 25px;
+    left: 30px;
+    color: white;
+}
+
+.modal-content {
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.dropdown-item {
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.contact-links-alert .card-title {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.contact-links-alert .card-body p {
+  display: inline-block;
+  margin: 0;
+}
+
+.login-center-div {
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+  }
+
+  .center-p-bt {
+    margin: 0 auto;
+    text-align: center;
+    width: 200px;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+  }
+
+  .card-profile-img {
+    margin-right: 100px;
+    
+  }
+
+  .ch-ed-btn {
+    margin-right: 25px;
+    padding-bottom: 10px;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+  }
+  .row {
+    font-family: 'Noto Kufi Arabic', sans-serif;
+  }
